@@ -39,6 +39,7 @@
 ## 运行方式
 ```bash
 python config_main.py
+```
 
 ---
 
