@@ -1,0 +1,13 @@
+#Python编译缓存
+__pycache__/
+*.pyc
+*.Pyo
+*.pyd
+
+#程序运行自动生成的日志、临时文本
+*.txt
+*.log
+
+#环境文件夹
+venv/
+.env
